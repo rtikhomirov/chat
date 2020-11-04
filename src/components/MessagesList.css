@@ -1,0 +1,15 @@
+.message_mine {
+    width: 100%;
+    background-color: #c4c4c4;
+    text-align: right;
+}
+.message_notMine {
+    width: 100%;
+    background-color: #ececec;
+    text-align: left;
+}
+
+.date {
+    font-size: small;
+    padding: 3px;
+}
